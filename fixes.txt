@@ -1,0 +1,2 @@
+It is a bug fix file.
+A new bug is fixed.git 
